@@ -1,5 +1,0 @@
-Static IP: 35.237.168.47
-
-jupyter url: http://35.237.168.47:7000/?token=438e121842d7b161a78c66c2a28a8d5a3fcde518fb37da7c
-
-
